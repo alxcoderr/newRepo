@@ -1,4 +1,3 @@
 hello
 CauseWahalaFornewBranch
 anotherOption
-new release
